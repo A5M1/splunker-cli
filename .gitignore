@@ -1,3 +1,5 @@
-in\*
-out\*
-myenv
+/in/
+/out/
+/myenv/
+/pkg/v*/
+
