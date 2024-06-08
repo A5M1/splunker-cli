@@ -4,4 +4,4 @@ little cli thingy, beta, horrible code, yada yada etc etc
 
 kill me
 
-[See License](abgslv2.md)
+[See License](abgslv.md)
