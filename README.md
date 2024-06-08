@@ -1,11 +1,13 @@
-# Splunker cli (demucs)
+# Splunker Music Stems Cli (demucs)
 
 little cli thingy, beta, horrible code, yada yada etc etc
-
 kill me
 
+x64 Windows (for now)
+
 [See License](abgslv.md)
-\n
+
+------------------------------------------------------------------------------------
 [Based on this repo](https://github.com/facebookresearch/demucs/) by facebook (meta)
 under MIT license
 ```
@@ -31,3 +33,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+====================================================================================
