@@ -1,6 +1,6 @@
 # Splunker Music Stems Cli (demucs)
 
-little cli thingy, beta, horrible code, yada yada etc etc
+AI Stem Splitter, requires python and ffmpeg 
 kill me
 
 x64 Windows (for now)
